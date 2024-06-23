@@ -1,6 +1,6 @@
 # Octree Voxel Terrain Generator
 
-A terrain generator using Unity3D and octree datastructure.
+A terrain generator using Unity3D and Octree datastructure.
 It offers an user-friendly UI interface to add different noise levels and block types.
 
 ## Screenshots
